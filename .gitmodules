@@ -1,0 +1,9 @@
+[submodule "server/ext"]
+	path = server/ext
+	url = https://github.com/aterrien/forp-PHP-profiler.git
+[submodule "client/js"]
+	path = client/js
+	url = https://github.com/aterrien/forp-ui.git
+[submodule "client/chrome"]
+	path = client/chrome
+	url = https://github.com/aterrien/forp-chrome.git
