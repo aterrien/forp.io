@@ -21,8 +21,10 @@ Install
 
 * Full download dev master
 
+``` sh
 $ git clone --recursive https://github.com/aterrien/forp.io.git
 $ cd forp.io
+```
 
 * Install
 
