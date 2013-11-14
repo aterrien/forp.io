@@ -9,7 +9,7 @@ Packages
 * server:
 
     - extension : [forp-PHP-profiler](https://github.com/aterrien/forp-PHP-profiler/)
-    - composer package : [aterrien/forp](ttps://packagist.org/packages/aterrien/forp)
+    - composer package : [aterrien/forp](https://packagist.org/packages/aterrien/forp)
 
 * clients:
 
